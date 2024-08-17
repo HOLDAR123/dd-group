@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Router.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/socials/InstagramIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/socials/WhatsAppIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/navigationList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_defaults.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dd-group.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2kb8HlS3zITurtRRnWNkiXBCNAX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/baime/Desktop/cookie-clicker/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\baime\\Desktop\\dd-group\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baime\Desktop\dd-group\src\assets\icons\socials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baime\Desktop\dd-group\src\assets\fonts\MontserratFont" />
+      <recent name="C:\Users\baime\Desktop\dd-group\src\assets\fonts" />
+      <recent name="C:\Users\baime\Desktop\dd-group\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="" />
+      <created>1723540832487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723540832487</updated>
+      <workItem from="1723540834970" duration="16788000" />
+      <workItem from="1723752253523" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
