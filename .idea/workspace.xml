@@ -2,40 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Router.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/socials/InstagramIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/socials/WhatsAppIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/navigationList.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_defaults.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dd-group.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Divider/Divider.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Divider/Divider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Divider/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/baime/Desktop/cookie-clicker/backend",
+    "last_opened_file_path": "C:/Users/baime/Desktop/dd-group",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -89,6 +66,8 @@
       <updated>1723540832487</updated>
       <workItem from="1723540834970" duration="16788000" />
       <workItem from="1723752253523" duration="39000" />
+      <workItem from="1723884384565" duration="77000" />
+      <workItem from="1723886547144" duration="2862000" />
     </task>
     <servers />
   </component>
