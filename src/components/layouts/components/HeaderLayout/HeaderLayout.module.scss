@@ -1,7 +1,13 @@
+@import "../../../../styles/variables";
+
 .header {
-  height: 80px;
-  background-color: #6c8154;
   padding: 20px;
+  width: 100%;
+  position: fixed;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 0 0 10px 10px;
+  z-index: 2000;
 
   &__content {
     width: 100%;
@@ -10,6 +16,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+
 
     &__leftPart {
       margin: -10px;
@@ -29,19 +36,31 @@
       flex-direction: row;
       align-items: center;
       gap: 40px;
+
+      @media(max-width: 747px) {
+        flex-direction: column;
+      }
+
       &__navigation {
+
         &__list {
+          list-style: none;
           display: flex;
           flex-direction: row;
           align-items: center;
           gap: 14px;
 
-          &_item {
-            color: #FFFFFF;
-            transition: filter 0.3s linear;
+          @media(max-width: 747px) {
+            flex-direction: column;
+          }
 
+          &_item {
+            color: #000000;
+            transition: color 0.2s linear;
+            font-size: 1.0625rem;
+            font-weight: 500;
             &:hover {
-              filter: brightness(0.8);
+              color: #6c8154;
             }
           }
         }
@@ -49,13 +68,27 @@
 
       &__socials {
         &__list {
-          gap: 10px;
+          gap: 15px;
           display: flex;
           align-items: center;
+          list-style: none;
           flex-direction: row;
+
+          @media(max-width: 747px) {
+            justify-content: space-between;
+          }
+
 
           &_item {
             transition: all 0.3s linear;
+            background-color: #f7f8fc;
+            color: #d4a02d;
+            padding: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 200px;
+            box-shadow: -2px -2px 10px rgba(255, 255, 255, 1), 4px 4px 8px rgba(57, 65, 124, 0.4);
             &:hover {
               filter: brightness(1.1);
               scale: 1.1;

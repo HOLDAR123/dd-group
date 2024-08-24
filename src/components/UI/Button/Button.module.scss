@@ -1,0 +1,30 @@
+.button {
+  padding: .625rem 1.25rem;
+  margin-top: 25px;
+  border-radius: 200px;
+
+  &_outline {
+    border: 2px solid #cfd085;
+    transition: all 150ms linear;
+
+    &:hover {
+      background: #cfd085;
+      .button_content {
+        color: #FFFFFF;
+      }
+    }
+  }
+
+  &_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: fit-content;
+    gap: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #cfd085;
+
+  }
+}

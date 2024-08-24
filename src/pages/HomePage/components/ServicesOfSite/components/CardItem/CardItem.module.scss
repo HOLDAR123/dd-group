@@ -1,0 +1,77 @@
+.cardItem {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.6);
+
+
+    &__header {
+      border-radius: 10px;
+      width: 100%;
+      background-color: #cfd085;
+      padding: 16px;
+      height: 100px;
+
+      &_img {
+        border-radius: 10px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+
+  &__iconWrapperCircle {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    &__iconWrapper {
+      border: 1px solid #FFFFFF;
+      background-color: rgba(255, 255, 255, 0.4);
+      border-radius: 200px;
+      padding: 6px;
+      width: 120px;
+      height: 120px;
+      &_icon {
+        padding: 20px;
+        border-radius: 200px;
+        background-color: #FFFFFF;
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+      }
+    }
+
+  }
+
+    &__footer {
+      display: flex;
+      margin-top: 60px;
+      height: 250px;
+      gap: 21px;
+      padding: 16px;
+      flex-direction: column;
+
+      &_headline {
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 500;
+      }
+
+     &__list {
+       display: flex;
+       height: 100%;
+       flex-direction: column;
+       justify-content: end;
+       margin-left: 20px;
+       gap: 10px;
+       &_textBody {
+         font-size: 14px;
+         color: #6c6c6c;
+       }
+     }
+    }
+}
