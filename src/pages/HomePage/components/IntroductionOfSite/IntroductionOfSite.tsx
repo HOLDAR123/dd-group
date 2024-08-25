@@ -25,7 +25,7 @@ export default function IntroductionOfSite() {
                         <Divider/>
                     <FadeInUpFast>
                     <span className={s.introductionOfSite__content__info_services}>
-                        По следующим направлениям: уголовные дела, имущественные и не имущественные споры, бракоразводные споры, трудовые споры, наследственные споры
+                        По следующим направлениям: гражданские, административные, корпоративные и налоговые дела.
                     </span>
                     </FadeInUpFast>
                     <FadeInUpFast>

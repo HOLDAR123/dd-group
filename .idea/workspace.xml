@@ -5,52 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="developments">
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/PhoneIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/StarIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/WorkHoursIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/FooterLayout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/FooterLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/reviewsData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/socialsData.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/GetInTouchOfSite.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/GetInTouchOfSite.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/GetInTouchItem.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/GetInTouchItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/ReviewsOfSite.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/ReviewsOfSite.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/ReviewItem.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/ReviewItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/GetInTouchType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/ReviewItemType.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/navigationList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/navigationList.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/cardsData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/cardsData.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/socialsData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/socialsData.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/baime/Desktop/dd-group&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\timur\\WebstormProjects\\dd-group\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/timur/OneDrive/Рабочий стол/dd-group-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\timur\\WebstormProjects\\dd-group\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\baime\Desktop\dd-group\src\assets\icons\socials" />
@@ -114,7 +76,7 @@
       <workItem from="1724446900834" duration="347000" />
       <workItem from="1724478914809" duration="146000" />
       <workItem from="1724510089788" duration="22854000" />
-      <workItem from="1724562533933" duration="21708000" />
+      <workItem from="1724562533933" duration="25140000" />
     </task>
     <task id="LOCAL-00001" summary="developments">
       <option name="closed" value="true" />
@@ -124,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724535068785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="developments">
+      <option name="closed" value="true" />
+      <created>1724593155409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724593155409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

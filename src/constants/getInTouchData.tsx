@@ -4,7 +4,7 @@ import WorkHoursIcon from "../assets/icons/common/WorkHoursIcon";
 
 export const getInTouchData: GetInTouchType[] = [{
     heading: "Позвоните Нам",
-    subTitle: "номер телефона",
+    subTitle: "номер телефона: +7 707 308 4803",
     icon: <PhoneIcon/>
 },
     {

@@ -4,11 +4,11 @@ import InstagramIcon from "../assets/icons/socials/InstagramIcon";
 export const socialsData = [{
     id: 1,
     icon: <WhatsAppIcon/>,
-    link: "https://wa.me/77751887942?text=",
+    link: "https://wa.me/77073084803?text=",
 },
     {
         id: 2,
         icon: <InstagramIcon/>,
-        link: "https://wa.me/77751887942?text=",
+        link: "https://www.instagram.com/ddgrroup?igsh=OGQ5ZDc2ODk2ZA==",
     },
 ];
