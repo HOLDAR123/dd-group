@@ -4,64 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/benefits/GraduationHatIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/benefits/LawIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/benefits/TeamIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/CloseIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/ConsultationIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/HamburgerIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/AnalysisIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/BankruptcryFacesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/ComplaintIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/CreditDisputesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/CustomersProtectIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/DebtCollection.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/ExecutiveDevelopmentIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/FamilyDisputesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/GetOweIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/HelpAccidentIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/HousingDisputesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/InheritDisputes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/JudgeInterestsIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/LawyerIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/OweProtectionIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/PropertyDisputesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/RetireIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/services/WorkDisputesIcon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal/Modal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/cardsData.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/components/CardItem/CardItem.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/components/CardItem/CardItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/components/CardItem/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/CardItemType.ts" afterDir="false" />
+    <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="developments">
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/PhoneIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/StarIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/common/WorkHoursIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/FooterLayout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/FooterLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/components/FooterLayout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/reviewsData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/socialsData.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/GetInTouchOfSite.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/GetInTouchOfSite.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/GetInTouchItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/GetInTouchItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchItem/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/ReviewsOfSite.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/ReviewsOfSite.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/ReviewItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/ReviewItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/components/ReviewItem/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ReviewsOfSite/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/GetInTouchType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/ReviewItemType.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/socials/InstagramIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/socials/InstagramIcon.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/socials/WhatsAppIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/socials/WhatsAppIcon.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Divider/Divider.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Divider/Divider.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/components/HeaderLayout/HeaderLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/navigationList.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/navigationList.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/BenefitsOfSite/BenefitsOfSite.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_defaults.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_defaults.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/ServicesOfSite/Services.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,8 +113,18 @@
       <workItem from="1723886547144" duration="2862000" />
       <workItem from="1724446900834" duration="347000" />
       <workItem from="1724478914809" duration="146000" />
-      <workItem from="1724510089788" duration="22629000" />
+      <workItem from="1724510089788" duration="22854000" />
+      <workItem from="1724562533933" duration="21708000" />
     </task>
+    <task id="LOCAL-00001" summary="developments">
+      <option name="closed" value="true" />
+      <created>1724535068785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724535068785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="developments" />
+    <option name="LAST_COMMIT_MESSAGE" value="developments" />
   </component>
 </project>

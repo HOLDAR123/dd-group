@@ -1,9 +1,9 @@
-import {ReactNode} from "react";
+import React, {ReactNode} from "react";
 
 import s from './Button.module.scss'
 import classNames from "classnames";
 
-type ButtonProps = {
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement>  {
     children: ReactNode;
     typeButton?: 'outline' | 'default'
 }

@@ -1,0 +1,48 @@
+.getInTouchOfSite {
+  height: 320px;
+  width: 100%;
+  background-color: #cfd085;
+  @media(max-width: 810px) {
+    height: 100%;
+  }
+  &__content {
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    align-items: center;
+
+    @media(max-width: 810px) {
+      grid-template-columns: 1fr;
+      padding: 20px 0;
+    }
+
+    &__leftPart {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 48px;
+      height: 100%;
+
+      @media(max-width: 810px) {
+        flex-direction: row;
+        padding: 10px 0;
+        gap: 12px;
+      }
+      @media(max-width: 747px) {
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+      }
+    }
+
+    &__rightPart {
+      display: flex;
+      justify-content: end;
+      width: 100%;
+
+      @media(max-width: 810px) {
+        justify-content: center;
+      }
+    }
+  }
+}

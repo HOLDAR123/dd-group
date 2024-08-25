@@ -2,6 +2,7 @@
 
 .header {
   padding: 20px;
+  height: 80px;
   width: 100%;
   position: fixed;
   backdrop-filter: blur(10px);
@@ -52,6 +53,8 @@
 
           @media(max-width: 747px) {
             flex-direction: column;
+            height: 100%;
+            justify-content: center;
           }
 
           &_item {
@@ -98,5 +101,15 @@
       }
 
     }
+  }
+}
+
+
+.navvv {
+  @media(max-width: 747px) {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 }

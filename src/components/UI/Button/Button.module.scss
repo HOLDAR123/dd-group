@@ -1,16 +1,36 @@
 .button {
-  padding: .625rem 1.25rem;
+  padding: 10px 20px;
   margin-top: 25px;
   border-radius: 200px;
+  height: 50px;
+  box-sizing: border-box;
 
   &_outline {
     border: 2px solid #cfd085;
     transition: all 150ms linear;
+    color: #cfd085;
 
     &:hover {
       background: #cfd085;
       .button_content {
         color: #FFFFFF;
+      }
+    }
+  }
+
+  &_default {
+    background: #cfd085;
+    color: #FFFFFF;
+    transition: all 150ms linear;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+    &:hover {
+      background: transparent;
+      border: 2px solid #cfd085;
+      .button_content {
+        color: #cfd085;
       }
     }
   }
@@ -24,7 +44,5 @@
     gap: 6px;
     font-weight: 500;
     font-size: 16px;
-    color: #cfd085;
-
   }
 }

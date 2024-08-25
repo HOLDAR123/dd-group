@@ -1,0 +1,15 @@
+.getInTouchForm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  background-color: #FFFFFF;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  &_heading {
+    font-size: 32px;
+    font-weight: 500;
+  }
+}

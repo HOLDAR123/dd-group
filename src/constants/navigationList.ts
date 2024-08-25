@@ -1,21 +1,21 @@
 export const navigationList = [{
     id: 1,
-    name: "О нас",
-    link: "#ff"
+    name: "Плюсы",
+    link: "#advantage"
 },
     {
         id: 2,
-        name: "О нас",
-        link: "#ff"
+        name: "Услуги",
+        link: "#services"
     },
     {
         id: 3,
-        name: "О нас",
-        link: "#ff"
-    }
-    , {
+        name: "Отзывы",
+        link: "#reviews"
+    },
+    {
         id: 4,
-        name: "О нас",
-        link: "#ff"
+        name: "Связаться",
+        link: "#footer"
     }
 ]

@@ -1,0 +1,11 @@
+.reviewsOfSite {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+
+  &_slider {
+    &_item{
+      width: 430px;
+    }
+  }
+}

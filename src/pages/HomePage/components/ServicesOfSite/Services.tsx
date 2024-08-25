@@ -7,7 +7,7 @@ import {FadeInUpFast} from "../../../../components/Animation";
 export default function Services() {
     return (
         <Container>
-            <section className={s.services}>
+            <section className={s.services} >
                 <section className={s.services_cards}>
                     {cardsData.map((elem, index) => (
                         <FadeInUpFast delay={index * 100}>

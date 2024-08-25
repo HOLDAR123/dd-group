@@ -1,6 +1,7 @@
 import s from './MainLayout.module.scss'
 import HeaderLayout from "../components/HeaderLayout";
 import {Outlet} from "react-router";
+import FooterLayout from "../components/FooterLayout";
 
 export default function MainLayout() {
     return (
@@ -11,6 +12,9 @@ export default function MainLayout() {
             <section className={s.mainLayout__content}>
                 <Outlet/>
             </section>
+            <footer className={s.mainLayout__footer}>
+                <FooterLayout/>
+            </footer>
         </div>
     )
 }

@@ -59,7 +59,7 @@ export default function BenefitsOfSite() {
         <div className={s.wrapper}>
             <Container>
                 <section className={s.benefits}>
-                    <ul className={s.benefits__list}>
+                    <ul className={s.benefits__list} >
                         {benefitsData.map((elem, index) => (
                             <FadeInUpFast key={elem.id} delay={index * 400}>
                                 <li className={s.benefits__list__item}>

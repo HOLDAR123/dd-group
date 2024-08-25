@@ -1,31 +1,17 @@
 import s from './HeaderLayout.module.scss';
-import InstagramIcon from "../../../../assets/icons/socials/InstagramIcon";
-import WhatsAppIcon from "../../../../assets/icons/socials/WhatsAppIcon";
-import { navigationList } from "../../../../constants/navigationList";
-import { Link } from "react-router-dom";
+import {navigationList} from "../../../../constants/navigationList";
+import {Link} from "react-router-dom";
 import logo from '../../../../assets/images/logo.svg';
-import { useEffect, useMemo, useState } from "react";
+import {useEffect, useState} from "react";
 import Container from "../../../Container/Container";
 import HamburgerIcon from "../../../../assets/icons/common/HamburgerIcon";
-import CloseIcon from "../../../../assets/icons/common/CloseIcon";
+import {socialsData} from "../../../../constants/socialsData";
 import Modal from "../../../Modal";
 
 export default function HeaderLayout() {
 
     const [isMobile, setIsMobile] = useState<boolean>(false);
     const [isActive, setIsActive] = useState<boolean>(false);
-
-    const socialMediaList = useMemo(() => [{
-        id: 1,
-        icon: <WhatsAppIcon />,
-        link: "https://wa.me/77751887942?text=",
-    },
-        {
-            id: 2,
-            icon: <InstagramIcon />,
-            link: "https://wa.me/77751887942?text=",
-        },
-    ], []);
 
     useEffect(() => {
         const handleResize = () => {
@@ -51,30 +37,30 @@ export default function HeaderLayout() {
                 <section className={s.header__content}>
                     <section className={s.header__content__leftPart}>
                         <section className={s.header__content__leftPart__logo}>
-                            <img src={logo} alt="logo" className={s.header__content__leftPart__logo_img} />
+                            <img src={logo} alt="logo" className={s.header__content__leftPart__logo_img}/>
                         </section>
                     </section>
                     {isMobile ?
                         <>
-                            <button onClick={handleOpenModal}>{isActive ? <CloseIcon /> : <HamburgerIcon />}</button>
+                            <button onClick={handleOpenModal}><HamburgerIcon/></button>
                             <Modal isActive={isActive} onClose={handleOpenModal}>
-                                <nav>
+                                <nav className={s.navvv}>
                                     <ul className={s.header__content__rightPart__navigation__list}>
                                         {navigationList.map((elem) => (
-                                            <Link to={elem.link} key={elem.id}>
+                                            <a onClick={handleOpenModal} href={elem.link} key={elem.id}>
                                                 <li className={s.header__content__rightPart__navigation__list_item}>
                                                     {elem.name}
                                                 </li>
-                                            </Link>
+                                            </a>
                                         ))}
                                     </ul>
 
                                     <section className={s.header__content__rightPart__socials}>
                                         <ul className={s.header__content__rightPart__socials__list}>
-                                            {socialMediaList.map((elem) => (
-                                                <Link to={elem.link} target='_blank' key={elem.id}>
+                                            {socialsData.map((elem) => (
+                                                <a href={elem.link} target='_blank' key={elem.id}>
                                                     <li className={s.header__content__rightPart__socials__list_item}>{elem.icon}</li>
-                                                </Link>
+                                                </a>
                                             ))}
                                         </ul>
                                     </section>
@@ -84,20 +70,20 @@ export default function HeaderLayout() {
                         <nav className={s.header__content__rightPart}>
                             <ul className={s.header__content__rightPart__navigation__list}>
                                 {navigationList.map((elem) => (
-                                    <Link to={elem.link} key={elem.id}>
+                                    <a href={elem.link} key={elem.id}>
                                         <li className={s.header__content__rightPart__navigation__list_item}>
                                             {elem.name}
                                         </li>
-                                    </Link>
+                                    </a>
                                 ))}
                             </ul>
 
                             <section className={s.header__content__rightPart__socials}>
                                 <ul className={s.header__content__rightPart__socials__list}>
-                                    {socialMediaList.map((elem) => (
-                                        <Link to={elem.link} target='_blank' key={elem.id}>
+                                    {socialsData.map((elem) => (
+                                        <a href={elem.link} target='_blank'  key={elem.id}>
                                             <li className={s.header__content__rightPart__socials__list_item}>{elem.icon}</li>
-                                        </Link>
+                                        </a>
                                     ))}
                                 </ul>
                             </section>
