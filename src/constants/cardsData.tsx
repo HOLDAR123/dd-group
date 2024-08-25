@@ -52,6 +52,7 @@ export const cardsData: CardItemType[] = [
         icon: <JudgeInterestsIcon/>,
         listServices: [
             "Составление отзыва на исковое заявление",
+            "Составление иска в суд",
             "Представительство в суде",
             "Обжалование решений суда",
         ],

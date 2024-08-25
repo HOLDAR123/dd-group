@@ -6,12 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d6d7f9a2-c2b0-4405-9cef-3a0a2e9fe94e" name="Changes" comment="developments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/MainLayout/MainLayout.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/cardsData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/cardsData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/getInTouchData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/socialsData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/socialsData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/GetInTouchOfSite/components/GetInTouchForm/GetInTouchForm.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/components/IntroductionOfSite/IntroductionOfSite.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +72,7 @@
       <workItem from="1724446900834" duration="347000" />
       <workItem from="1724478914809" duration="146000" />
       <workItem from="1724510089788" duration="22854000" />
-      <workItem from="1724562533933" duration="25140000" />
+      <workItem from="1724562533933" duration="25600000" />
     </task>
     <task id="LOCAL-00001" summary="developments">
       <option name="closed" value="true" />
@@ -94,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724593155409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="developments">
+      <option name="closed" value="true" />
+      <created>1724612651839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724612651839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

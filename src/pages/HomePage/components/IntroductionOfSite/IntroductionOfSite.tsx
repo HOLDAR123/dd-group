@@ -30,10 +30,12 @@ export default function IntroductionOfSite() {
                     </FadeInUpFast>
                     <FadeInUpFast>
                         <section>
-                            <Button>
-                                <ConsultationIcon/>
-                                Бесплатная консультация
-                            </Button>
+                            <a href={"#footer"}>
+                                <Button>
+                                    <ConsultationIcon/>
+                                    Бесплатная консультация
+                                </Button>
+                            </a>
                         </section>
                     </FadeInUpFast>
                 </section>
