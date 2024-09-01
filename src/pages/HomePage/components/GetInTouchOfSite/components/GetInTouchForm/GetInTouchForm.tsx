@@ -11,7 +11,7 @@ export default function GetInTouchForm() {
         event.preventDefault();
 
         try {
-            const response = await fetch('http://localhost:8081/mail/send', {
+            const response = await fetch('https://api.ddgroup.kz/mail/send', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
